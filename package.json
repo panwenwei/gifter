@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/panwenwei/gift.git"
+    "url": "https://github.com/panwenwei/gifter.git"
   },
   "keywords": [
     "etcd",
@@ -18,9 +18,9 @@
   "author": "panwenwei",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/panwenwei/gift/issues"
+    "url": "https://github.com/panwenwei/gifter/issues"
   },
-  "homepage": "https://github.com/panwenwei/gift#readme",
+  "homepage": "https://github.com/panwenwei/gifter#readme",
   "dependencies": {
     "etcd3": "^0.2.13",
     "google-protobuf": "^3.11.1"
