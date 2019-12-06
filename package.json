@@ -1,6 +1,6 @@
 {
   "name": "gifter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "etcd service discovery or register",
   "main": "./src/index.js",
   "scripts": {
