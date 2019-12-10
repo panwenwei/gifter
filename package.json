@@ -1,7 +1,7 @@
 {
   "name": "gifter",
-  "version": "0.0.2",
-  "description": "etcd service discovery or register",
+  "version": "0.0.3",
+  "description": "etcd base grpc service discovery or register",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
