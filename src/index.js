@@ -22,7 +22,7 @@ class Gift {
      *  })
      * @param {*} param 
      */
-    constructor(param){
+    constructor(param={}){
         this.storage = new storage(param)
         this.giftContainer = new container(this.storage)
         this.storage.container = this.giftContainer

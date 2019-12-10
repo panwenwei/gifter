@@ -1,12 +1,9 @@
 const messages = require('./proto/proto/test_pb')
 const services = require('./proto/proto/test_grpc_pb')
 const Gift = require('../src/index')
-const http = require('http');
+const http = require('http')
 
-
-
-
-const gift = new Gift({})
+const gift = new Gift()
 const client =  gift.client()
 client.bind('Greeter',services)
 
